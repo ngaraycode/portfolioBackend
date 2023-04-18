@@ -32,5 +32,20 @@ public class Persona {
     @Size(min=1,max=2000, message="Longitud incorrecta")
     private String descripcion;
     private String fotoPerfil;
+
+    public Persona() {
+    }
+
+    
+    
+    public Persona(String nombre, String apellido, String cargo, String descripcion, String fotoPerfil) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.cargo = cargo;
+        this.descripcion = descripcion;
+        this.fotoPerfil = fotoPerfil;
+    }
+    
+    
     
 }
