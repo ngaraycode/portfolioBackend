@@ -1,4 +1,7 @@
+G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Controller\CProyecto.java
+G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Entity\Proyecto.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Security\Repository\iRolRepository.java
+G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Service\SProyecto.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Security\jwt\JwtProvider.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Repository\IPersonaRepository.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Security\Dto\JwtDto.java
@@ -13,6 +16,7 @@ G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Security\Service\
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Service\SExperiencia.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Controller\CExperiencia.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Security\jwt\JwtTokenFilter.java
+G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Dto\dtoProyecto.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Service\SEducacion.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Entity\Experiencia.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\NfgApplication.java
@@ -32,3 +36,4 @@ G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Entity\Educacion.
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Controller\PersonaController.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Security\Controller\AuthController.java
 G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Dto\dtoExperiencia.java
+G:\GitHub\portfolioBackend\NFG\src\main\java\com\portfolio\NFG\Repository\RProyecto.java

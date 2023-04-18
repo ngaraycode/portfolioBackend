@@ -1,8 +1,10 @@
+com\portfolio\NFG\Repository\RProyecto.class
 com\portfolio\NFG\Service\SExperiencia.class
 com\portfolio\NFG\Entity\Experiencia.class
 com\portfolio\NFG\Security\Entity\UsuarioPrincipal.class
 com\portfolio\NFG\Controller\CEducacion.class
 com\portfolio\NFG\Security\jwt\JwtProvider.class
+com\portfolio\NFG\Dto\dtoProyecto.class
 com\portfolio\NFG\Controller\PersonaController.class
 com\portfolio\NFG\Security\jwt\JwtTokenFilter.class
 com\portfolio\NFG\Service\PersonaService.class
@@ -10,11 +12,14 @@ com\portfolio\NFG\Controller\CExperiencia.class
 com\portfolio\NFG\NfgApplication.class
 com\portfolio\NFG\Repository\IPersonaRepository.class
 com\portfolio\NFG\Security\Service\RolService.class
+com\portfolio\NFG\Controller\CProyecto.class
 com\portfolio\NFG\Security\Service\UserDetailsImpl.class
 com\portfolio\NFG\Security\Entity\Rol.class
 com\portfolio\NFG\Security\Entity\Usuario.class
+com\portfolio\NFG\Service\SProyecto.class
 com\portfolio\NFG\Security\Dto\LoginUsuario.class
 com\portfolio\NFG\Security\Service\UsuarioService.class
+com\portfolio\NFG\Entity\Proyecto.class
 com\portfolio\NFG\Security\Enums\RolNombre.class
 com\portfolio\NFG\Entity\Educacion.class
 com\portfolio\NFG\Security\Repository\iUsuarioRepository.class
